@@ -1,0 +1,4 @@
+com\test\bean\Host.class
+com\test\balancer\Balancer.class
+com\test\ApplicationMain.class
+com\test\bean\Rule.class
