@@ -14,11 +14,11 @@ java -jar TechTest.jar server example.yml
 
 ## Configuration File
 
-###Logging:
+### Logging:
 To see the request of the server you can enable logging setting the level as on the example below,
 for more information check dropwizard documentation [https://www.dropwizard.io/1.3.4/docs/manual/configuration.html#logging](https://www.dropwizard.io/1.3.4/docs/manual/configuration.html#logging)
 
-###Server Parameters:
+### Server Parameters:
 To configure on what port have to listen the server we need to configure it on the yaml file the default port is 8080,
 to see more information check dropwizard documentation [https://www.dropwizard.io/1.3.4/docs/manual/configuration.html](https://www.dropwizard.io/1.3.4/docs/manual/configuration.html)
 
